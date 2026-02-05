@@ -85,7 +85,7 @@ export function Navbar() {
 					<Link
 						href="/"
 						className="flex-shrink-0 font-bold text-xl text-primary hover:text-accent transition-all duration-300 ease-in-out">
-						Free Streaming
+						Abhi TheLegend
 					</Link>
 
 					{/* Desktop Navigation */}
