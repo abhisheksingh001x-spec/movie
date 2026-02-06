@@ -85,7 +85,7 @@ export function Navbar() {
 					<Link
 						href="/"
 						className="flex-shrink-0 font-bold text-xl text-primary hover:text-accent transition-all duration-300 ease-in-out">
-						Abhi TheLegend
+						RDX Movie Zone
 					</Link>
 
 					{/* Desktop Navigation */}
